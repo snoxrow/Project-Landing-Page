@@ -1,0 +1,25 @@
+.main-container {
+    display: flex;
+    height: 100vh;
+}
+
+
+.header {
+    display: flex;
+    margin-top: 0;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+.link-container {
+   
+    
+
+}
+.links {
+
+}
+.left, .right{
+    align-items: auto;
+
+}
